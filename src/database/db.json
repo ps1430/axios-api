@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "Sakshi Sharma",
+      "address": "Delhi",
+      "email": "ssharmassakshi93@gmail.com",
+      "password": "sakshi@1",
+      "id": 1
+    },
+    {
+      "name": "mansi ",
+      "address": "delhi",
+      "email": "Pt451@30gmail.com",
+      "pasword": "tiwari@30",
+      "id": 2
+    },
+    {
+      "email": "Pt451@30gmail.com",
+      "pasword": "tiwari@30",
+      "name": "mansi ",
+      "address": "delhi",
+      "id": 3
+    },
+    {
+      "Name": "",
+      "Address": "",
+      "Email": "",
+      "Password": "",
+      "email": "Pt451@30gmail.com",
+      "pasword": "tiwari@30",
+      "name": "mansi ",
+      "address": "delhi",
+      "id": 4
+    },
+    {
+      "Name": "",
+      "Address": "",
+      "Email": "",
+      "Password": "",
+      "email": "Pt451@30gmail.com",
+      "pasword": "tiwari@30",
+      "name": "mansi ",
+      "address": "delhi",
+      "id": 5
+    }
+  ]
+}
